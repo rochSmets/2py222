@@ -72,12 +72,12 @@ comment definir le pas de temps ? est-il fixe ?
 
 
 # Oral sur 10
-- Rossi, Nouhaud : 7
-- Robin, Lichtfeld : 8
-- Quebriac, Molines, Leclair : 6.5
-- Sanchez, Jolette : 7.5
-- Oudard, Nguyen-Rabot : 7.5
-- Leblond : 7
+- Rossi, Nouhaud : 8
+- Robin, Lichtfeld : 9
+- Quebriac, Molines, Leclair : 7.5
+- Sanchez, Jolette : 8.5
+- Oudard, Nguyen-Rabot : 8.5
+- Leblond : 8
 
 
 # Notebook sur 10
@@ -90,10 +90,10 @@ comment definir le pas de temps ? est-il fixe ?
 
 
 # Gestion et approfondissement sur 40
-- Rossi, Nouhaud : 32
-- Robin, Lichtfeld : 32
-- Quebriac, Molines, Leclair : 29
-- Sanchez, Jolette : 32
-- Oudard, Nguyen-Rabot : 32
-- Leblond : 32
+- Rossi, Nouhaud : 36
+- Robin, Lichtfeld : 39
+- Quebriac, Molines, Leclair : 32
+- Sanchez, Jolette : 36
+- Oudard, Nguyen-Rabot : 38
+- Leblond : 36
 
